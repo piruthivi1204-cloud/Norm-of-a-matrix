@@ -5,9 +5,13 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-	1. Get the input matrix using np.array()   
-    2. Find the 2-norm of the matrix using np.linalg.norm()
-	3. Print the norm of the matrix in two decimal places.
+### step 1.
+	Get the input matrix using np.array()  
+	
+### step 2.
+    Find the 2-norm of the matrix using np.linalg.norm()
+### step 3.
+Print the norm of the matrix in two decimal places.
 ## Program:
 ```Python
 # Register No:Piruthiviraj G
@@ -47,7 +51,8 @@ print(norm_of_matrix)
 <br>
 <br>
 <br>
-<img width="1185" height="877" alt="image" src="https://github.com/user-attachments/assets/642bbc8f-de37-4089-a4d5-ecd3a9cbe7a5" />
+<img width="1204" height="879" alt="image" src="https://github.com/user-attachments/assets/e283ef85-2935-483f-aa05-6dddc32fef05" />
+
 
 ### 2-Norm of a Matrix
 <br>
